@@ -50,5 +50,5 @@ src="https://img.shields.io/twitter/follow/sheriffWebDev?logo=twitter&style=for-
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
-
+<a href="https://app.daily.dev/Sheriff"><img src="https://api.daily.dev/devcards/169288376e9b4d198d1ade00687229b9.png?r=vt6" width="400" alt="Sheriff Oladimeji's Dev Card"/></a>
 <a href="https://www.buymeacoffee.com/sheriff"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
