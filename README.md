@@ -12,8 +12,8 @@ I'm a frontend developer based in Nigeria , I'm available for collaboration on f
 * 🤝  I'm open to collaborating on Frontend Projects
 
 <a href="https://www.github.com/sheriffOladimeji" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sheriffOladimeji?logo=github&style=for-the-badge&color=0891b2&labelColor=312e81" /></a><a href="https://www.twitter.com/sheriffWebDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sheriffWebDev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=312e81"
+src="https://img.shields.io/github/followers/sheriffOladimeji?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/sheriffWebDev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/sheriffWebDev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
 ### Skills
@@ -37,18 +37,14 @@ src="https://img.shields.io/twitter/follow/sheriffWebDev?logo=twitter&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sheriffOladimeji"><img src="https://github-readme-stats.vercel.app/api?username=sheriffOladimeji&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="sheriffOladimeji's GitHub stats" /></a>
+<a href="http://www.github.com/sheriffOladimeji"><img src="https://github-readme-stats.vercel.app/api?username=sheriffOladimeji&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="sheriffOladimeji's GitHub stats" /></a>
 
-<a href="http://www.github.com/sheriffOladimeji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sheriffOladimeji&stroke=ffffff&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/sheriffOladimeji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sheriffOladimeji&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/sheriffOladimeji"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sheriffOladimeji&bg_color=312e81&color=ffffff&line=0891b2&point=ffffff&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sheriffOladimeji"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sheriffOladimeji&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/sheriffOladimeji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheriffOladimeji&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/sheriffOladimeji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheriffOladimeji&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-<a href="https://app.daily.dev/Sheriff"><img src="https://api.daily.dev/devcards/169288376e9b4d198d1ade00687229b9.png?r=vt6" width="400" alt="Sheriff Oladimeji's Dev Card"/></a>
-<a href="https://www.buymeacoffee.com/sheriff"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
