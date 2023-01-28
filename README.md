@@ -39,5 +39,5 @@ I'm a 17 years old web developer interested web development and artificial intel
 
 <a href="https://github.com/sheriffOladimeji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheriffOladimeji&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/sheriffOladimeji/sheriffOladimeji/blob/master/devcard.svg" width="400" alt="sheriff Oladimeji's Dev Card"/></a>
+<a href="https://app.daily.dev/Sheriff"><img src="https://api.daily.dev/devcards/169288376e9b4d198d1ade00687229b9.png?r=7cf" width="400" alt="Sheriff Oladimeji's Dev Card"/></a>
 
