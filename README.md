@@ -8,7 +8,7 @@ I'm a 17 years old web developer interested web development and artificial intel
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [dimejiademola5@gmail.com](mailto:dimejiademola5@gmail.com)
-* 🤝  I'm open to collaborating on Frontend Projects
+* 🤝  I'm open to collaborating on Cool Projects
 
 ### Skills
 
@@ -27,6 +27,7 @@ I'm a 17 years old web developer interested web development and artificial intel
 <p align="left"> <a href="https://www.github.com/sheriffOladimeji" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sheriffWebDeV" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
+[![wakatime](https://wakatime.com/badge/user/19f33b26-703d-466a-8e4c-3841fe00aa0f.svg)](https://wakatime.com/@19f33b26-703d-466a-8e4c-3841fe00aa0f)
 ### Badges
 
 <b>My GitHub Stats</b>
