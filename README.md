@@ -34,13 +34,7 @@ Frontend Web Developer
 
 <a href="http://www.github.com/sheriffOladimeji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sheriffOladimeji&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/sheriffOladimeji"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sheriffOladimeji&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/sheriffOladimeji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheriffOladimeji&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 <a href="https://app.daily.dev/Sheriff"><img src="https://api.daily.dev/devcards/169288376e9b4d198d1ade00687229b9.png?r=7cf" width="400" alt="Sheriff Oladimeji's Dev Card"/></a>
 
