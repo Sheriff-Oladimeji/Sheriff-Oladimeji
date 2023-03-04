@@ -7,7 +7,7 @@ Frontend Web Developer
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [dimejiademola5@gmail.com](mailto:dimejiademola5@gmail.com)
 * 🧠  I'm learning React js
-* 🤝  I'm open to collaborating on Frontend Projects
+* 🤝  I'm open to collaborating to Open source projects 
 
 ### Skills
 
