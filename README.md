@@ -9,6 +9,13 @@ Frontend Web Developer
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Open source projects
 
+## 🏆 Github Trophy
+
+  
+<a href="https://Codebox124.github.io">
+<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Sheriff-Oladimeji&theme=gruvbox">
+</a>
+
 ### Skills
 
 
