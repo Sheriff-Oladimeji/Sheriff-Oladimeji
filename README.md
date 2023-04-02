@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://cdn.discordapp.com/attachments/1083752092864364558/1089685408918552676/sheriff_a_brilliant_handsome_18_years_old_writing_codes_on_his__5f40703e-ccb9-46f7-8fa2-91d57ac135c7.png" width="100%" height="500"/>
 </div>
 
 ## 👋  I'm a software developer
