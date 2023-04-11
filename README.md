@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [dimejiademola5@gmail.co](mailto:dimejiademola5@gmail.co)
+* ✉️  You can contact me at [dimejiademola5@gmail.co](mailto:dimejiademola5@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Open source projects
 * ⚡  I'm not a nerd
