@@ -6,10 +6,10 @@ Full-stack Web Developer
 
 I'm a passionate full-stack developer with a strong foundation in both front-end and back-end development. I love building innovative web applications and creating seamless user experiences.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm from Nigeria
 * ✉️  You can contact me at [dimejiademola5@gmail.com](mailto:dimejiademola5@gmail.com)
 * 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on Open source projects
+* 🤝  I'm open to collaborating on open-source projects
 * ⚡  Fun fact: I'm not a nerd
 
 ### Skills
