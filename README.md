@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sheriff Oladimeji
 =========================================================================================================================================
 
-Full-stack Web Developer
+Front-end  Web Developer
 ------------------------
 
-I'm a passionate full-stack developer with a strong foundation in both front-end and back-end development. I love building innovative web applications and creating seamless user experiences.
 
 * 🌍  I'm from Nigeria
 * ✉️  You can contact me at [dimejiademola5@gmail.com](mailto:dimejiademola5@gmail.com)
