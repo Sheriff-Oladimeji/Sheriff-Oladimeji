@@ -7,7 +7,7 @@ Front-end  Web Developer
 
 * 🌍  I'm from Nigeria
 * ✉️  You can contact me at [dimejiademola5@gmail.com](mailto:dimejiademola5@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning backend web development 
 * 🤝  I'm open to collaborating on open-source projects
 * ⚡  Fun fact: I'm not a nerd
 
