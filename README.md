@@ -33,9 +33,12 @@ Full-stack Web Developer
 
 <a href="https://github.com/Sheriff-Oladimeji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheriff-Oladimeji&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ### Wakatime Stats
+
   <a href="https://wakatime.com/@Sheriff">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sheriff&layout=compact&theme=dark&bg_color=0f172a&hide_border=true&text_color=ffffff" alt="Sheriff oladimeji">
   </a>
+
+  [![wakatime](https://wakatime.com/badge/user/19f33b26-703d-466a-8e4c-3841fe00aa0f.svg)](https://wakatime.com/@19f33b26-703d-466a-8e4c-3841fe00aa0f)
 
 <b>Top Repositories</b>
 
