@@ -8,7 +8,7 @@ Full-stack Web Developer
 * 🖥️  See my portfolio at [sheriff.dev](http://devsheriff.vercel.app/)
 * ✉️  You can contact me at [dimejiademola5@gmail.com](mailto:dimejiademola5@gmail.com)
 * 🧠  I'm learning Django
-* 🤝  I'm open to collaborating on Open source projects
+* 🤝  I'm open to collaborating on open-source projects
 * ⚡  Fun fact: I'm not a nerd
 
 ### Skills
@@ -40,7 +40,5 @@ Full-stack Web Developer
 
   [![wakatime](https://wakatime.com/badge/user/19f33b26-703d-466a-8e4c-3841fe00aa0f.svg)](https://wakatime.com/@19f33b26-703d-466a-8e4c-3841fe00aa0f)
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Sheriff-Oladimeji/Sparkle" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sheriff-Oladimeji&repo=Sparkle&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Sheriff-Oladimeji/bookr" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sheriff-Oladimeji&repo=bookr&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
