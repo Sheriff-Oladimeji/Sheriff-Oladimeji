@@ -1,6 +1,5 @@
 # Sheriff Oladimeji - Full-stack Web Developer 👨‍💻
 
-Welcome to my GitHub profile! I'm Sheriff Oladimeji, a passionate full-stack developer based in Nigeria. I specialize in creating intuitive digital experiences, with a focus on frontend development. I love turning ideas into real-world solutions and am always excited to collaborate on meaningful projects.
 
 ## About Me
 - 🌍 I'm based in Nigeria
