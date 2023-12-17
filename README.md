@@ -32,6 +32,7 @@ I am proficient in the following technologies:
 </p>
 
 ## GitHub Stats 📊
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheriff-Oladimeji&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sheriff-Oladimeji&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
