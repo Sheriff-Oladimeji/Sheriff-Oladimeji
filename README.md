@@ -1,4 +1,4 @@
-# Sheriff Oladimeji - Full-stack Web Developer 👨‍💻
+# Sheriff Oladimeji - Software Developer 👨‍💻
 
 
 ## About Me
