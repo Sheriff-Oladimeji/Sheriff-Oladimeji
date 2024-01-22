@@ -6,7 +6,7 @@
 - 🖥️ See my portfolio at [sheriff.dev](http://devsheriff.vercel.app/)
 - ✉️ Contact me at [dimejiademola5@gmail.com](mailto:dimejiademola5@gmail.com)
 - 🧠 Currently learning Django
-- 🤝 Open to collaborating on open source projects
+- 🤝 Open to collaborating on open-source projects
 - ⚡ Fun fact: I'm not a nerd
 
 ## Skills
