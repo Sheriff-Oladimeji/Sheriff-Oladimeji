@@ -39,6 +39,9 @@ I am proficient in the following technologies:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheriff-Oladimeji&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages)
 
+## Dev Card
+<a href="https://app.daily.dev/sheriff"><img src="https://api.daily.dev/devcards/v2/iI9WMeNQl1OS3mqFK3gih.png?r=8qi" width="356" alt="Sheriff Oladimeji's Dev Card"/></a>
+
 ## Let's Connect 🚀
 <p align="left">
     <a href="https://www.github.com/Sheriff-Oladimeji" target="_blank" rel="noreferrer">
