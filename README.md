@@ -1,6 +1,5 @@
 # Sheriff Oladimeji - Software Developer 👨‍💻
 
-
 ## About Me
 - 🌍 I'm based in Nigeria
 - 🖥️ See my portfolio at [sheriff.dev](http://devsheriff.vercel.app/)
@@ -28,14 +27,13 @@ I am proficient in the following technologies:
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="40" height="40">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40">
+    <img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"  width="40" height="40">
     <img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"  width="40" height="40">
 </p>
 
-
 ## My GitHub Stats 📊
 
-<a href="http://www.github.com/Sheriff-Oladimeji"><img src="https://github-readme-stats.vercel.app/api?username=Sheriff-Oladimeji&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Sheriff-Oladimeji's GitHub stats" /></a>
+<a href="http://www.github.com/Sheriff-Oladimeji"><img src="https://github-readme-stats.vercel.app/api?username=Sheriff-Oladimeji&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Sheriff-Oladimeji's GitHub stats" /></a>
 
 <a href="http://www.github.com/Sheriff-Oladimeji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheriff-Oladimeji&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&count_private=true" /></a>
 
@@ -56,5 +54,3 @@ I am proficient in the following technologies:
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter">
     </a>
 </p>
-
-Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊
