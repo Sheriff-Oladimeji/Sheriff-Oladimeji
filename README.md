@@ -1,7 +1,6 @@
 # Sheriff Oladimeji - Software Developer 👨‍💻
 
 ## About Me
-- 🌍 I'm based in Nigeria
 - 🖥️ See my portfolio at [sheriff.dev](http://devsheriff.vercel.app/)
 - ✉️ Contact me at [dimejiademola5@gmail.com](mailto:dimejiademola5@gmail.com)
 - 🤝 Open to collaborating on open-source projects
