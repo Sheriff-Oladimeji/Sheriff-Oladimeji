@@ -35,7 +35,7 @@ I am proficient in the following technologies:
 
 <a href="http://www.github.com/Sheriff-Oladimeji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheriff-Oladimeji&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&count_private=true" /></a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheriff-Oladimeji&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheriff-Oladimeji&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact)
 
 ## My Dev Card
 <a href="https://app.daily.dev/sheriff"><img src="https://api.daily.dev/devcards/v2/iI9WMeNQl1OS3mqFK3gih.png?r=8qi" width="356" alt="Sheriff Oladimeji's Dev Card"/></a>
