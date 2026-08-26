@@ -1,7 +1,7 @@
-# Sheriff Oladimeji - Software Developer 👨‍💻
+# Sheriff Oladimeji - Software Engineer👨‍💻
 
 ## About Me
-- 🖥️ See my portfolio at [sheriff.dev](http://devsheriff.vercel.app/)
+- 🖥️ See my portfolio at [sheriff.dev](https://sheriff.brikta.dev)
 - 🤝 Open to collaborating on open-source projects
 - ⚡ Fun fact: I'm not a nerd
 
