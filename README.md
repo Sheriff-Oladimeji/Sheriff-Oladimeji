@@ -23,7 +23,7 @@
 ```typescript
 const sheriff_oladimeji: Developer = {
   name:      "Sheriff  Oladimeji ",
-  role:      "Frontend or full-stack engineer",
+  role:      "Full-stack engineer",
   location:  "Nigeria",
   currently: "building in public",
   stack:     ["TypeScript", "JavaScript", "Python", "CSS", "HTML", "Mako"],
