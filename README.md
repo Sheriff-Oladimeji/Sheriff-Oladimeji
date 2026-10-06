@@ -87,6 +87,7 @@ const sheriff_oladimeji: Developer = {
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheriff-oladimeji&layout=compact&hide_border=true&langs_count=8&title_color=7df9ff&text_color=c9d4e0&bg_color=0d1117" alt="Top languages" />
 
 <br/>
+<a href="http://www.github.com/Sheriff-Oladimeji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheriff-Oladimeji&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 <!-- <img src="https://www.gitskins.com/api/section/heatmap?username=sheriff-oladimeji&theme=neon&style=aura" width="100%" alt="Contribution activity" /> -->
 
